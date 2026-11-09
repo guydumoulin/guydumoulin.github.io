@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://participepasse.com.free.fr/sitemap.xml
